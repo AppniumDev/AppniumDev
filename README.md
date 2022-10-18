@@ -13,7 +13,6 @@ Hi, I'm Davide Cuccato!
 - In my experience I worked well as a team player, always helping and trying to understand people before systems.
 - I work mainly with Typescript, React.js for frontend and Node.js for backend.
 - I'm a fan of GraphQL.
-- I'm a fan of GraphQL.
 </pre>
 <hr>
 
